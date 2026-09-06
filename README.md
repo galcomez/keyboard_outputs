@@ -6,5 +6,5 @@ A low-resource program to check if every button works as it should on your keybo
 1. if the button  is double-clicked the program will state that!
 2.  Also compatible for shortcuts... If a shortcut buttns are pressed and detected by the system, the app will inform you about it!
 3.  light weight app, automatically closes all it's processes when the close button is pressed.
-## Code Signing
-This project uses the [SignPath Foundation](https://signpath.org) for free code signing of open-source software.
+## IMPORTANT
+The app is not signed via. any licence due to the project being too small... Windows defender could/will gave you a wwarning. 
